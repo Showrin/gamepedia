@@ -1,0 +1,34 @@
+{
+  "name": "gamepedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Showrin/gamepedia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Showrin/gamepedia/issues"
+  },
+  "homepage": "https://github.com/Showrin/gamepedia#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp-cache": "^1.1.3",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-tinify": "^1.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^2.0.0",
+    "gulp-useref": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1"
+  }
+}
